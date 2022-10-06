@@ -1,0 +1,2 @@
+#!/bin/bash
+sudo -chown vincent dchown vincent -chgrp staff dchgrop staff
